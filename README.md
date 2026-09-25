@@ -176,12 +176,11 @@ dsa-course@upi
 |1| | | | | |  |
 
 
-
 ## Searching
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1| | | | | |  |
+|1| [Binary Search](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1)| [Theory](https://www.geeksforgeeks.org/binary-search/)| | | :green_square: Easy|  Searching|
 
 
 
